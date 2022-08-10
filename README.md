@@ -10,16 +10,16 @@
 
 <p align="center">
   <a href="https://github.com/hackerz-lab/Makise-Kurisu/fork">
-    <img src="https://img.shields.io/github/forks/FantoX001/Miku-MD?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/hackerz-lab/Makise-Kurisu?label=Fork&style=social">
     
     
-  <a href="https://github.com/hackerz-lab/Miku-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/FantoX001/Miku-MD?style=social">
+  <a href="https://github.com/hackerz-lab/Makise-Kurisu/stargazers">
+    <img src="https://img.shields.io/github/stars/hackerz-lab/Makise-Kurisu?style=social">
   </a>
 
 <p align="center">
-  <a href="https://github.com/hackerz-lab/Miku-MD">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Miku-MD.visitor-badge&left_text=Total%20Repo%20Visits">
+  <a href="https://github.com/hackerz-lab/Makise-Kurisu">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/hackerz-lab/Makise-Kurisu.visitor-badge&left_text=Total%20Repo%20Visits">
     
     
 <a href="https://github.com/hackerz-lab">
@@ -33,10 +33,10 @@
 ### ✧✧ Use `Heroku Deploy Method 2` for easy and more convenient deploy(Trust me).    
 
 
-### ✧✧ Deploy Video tutorial:
-- Here's the [video tutorial](https://youtu.be/fZdM7Ahb4JE) on how to deploy and host Miku bot.
-- [Video Guide](https://youtu.be/fZdM7Ahb4JE)
-</br>
+
+
+
+
 ## Heroku Deployment Method 1:
 
 #### ✧ Fork this repo.
