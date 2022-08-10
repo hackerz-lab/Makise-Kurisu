@@ -1,0 +1,24 @@
+{
+  "name": "Makise-Kurisu",
+  "description": "A whatsApp bot based on Baileys linrary with Multi Device support",
+  "repository": "https://github.com/hackerz-lab/Makise-Kurisu",
+  "logo": "https://images6.alphacoders.com/471/thumb-1920-471586.png",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ],
+   "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
