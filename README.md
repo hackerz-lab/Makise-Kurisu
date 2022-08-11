@@ -1,12 +1,12 @@
 <p align="center">
-   <a href="https://github.com/FantoX001">
+   <a href="https://github.com/hackerz-lab">
     <img src="https://i.pinimg.com/originals/ca/d4/a4/cad4a4a8c48df813b605083dee9057b1.gif" width="610">
      
 </p>
 <h1 align="center"> Makise Kurisu (Beta)
 </h1>
 <p align="center"> 
-  Konochiwa Senpai, I am "Makise-Kurisu" a WhatsApp bot made by Hackerz-Lab to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+  Konochiwa, I am "Makise-Kurisu" a WhatsApp bot made by Hackerz-Lab to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 
 <p align="center">
   <a href="https://github.com/hackerz-lab/Makise-Kurisu/fork">
