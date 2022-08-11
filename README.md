@@ -45,7 +45,7 @@
 </a>
 #### ✧ Next download that `session.json` file and replace it with the older one present the hompage of your [`Fork`](https://github.com/hackerz-lab/Makise-Kurisu/fork).
 
-#### ✧ After that edit the `README.md` file and change the template link present on line no:`39` with your forked repo link.(Example: `https://github.com/<your GitHub username>/Miku-MD`)
+#### ✧ After that edit the `README.md` file and change the template link present on line no:`39` with your forked repo link.(Example: `https://github.com/<your GitHub username>/Makise-Kurisu`)
 
 #### ✧ Next
 
